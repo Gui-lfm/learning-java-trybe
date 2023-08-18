@@ -1,7 +1,7 @@
 package com.trybe.java.regraprogressao;
 
-
 import java.util.ArrayList;
+
 import java.util.Scanner;
 
 /**
